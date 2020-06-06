@@ -1,11 +1,11 @@
 # Confidence-Interval
+
 This python code can be used to find 95% confidence interval of a dataset.
 
 Here, we are given 5 files of data which contained 15 columns of relevant
 data and were used to classify a column(bug) with bug=0 and bug>0 with
 the help of the values given in 15 columns. 
-Now our goal is to calculate the
-95% CI for each column such that bug=0 and bug>0.
+Now our goal is to calculate the 95% CI for each column such that bug=0 and bug>0.
 
 Algorithm to calculate CI:-
 
